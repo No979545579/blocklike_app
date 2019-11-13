@@ -1,10 +1,12 @@
 <template>
-  <div>home</div>
+  <div class="container">Home</div>
 </template>
 
 <script>
-export default {}
+export default {
+  name: 'home-index'
+}
 </script>
 
-<style>
+<style scoped lang='less'>
 </style>
